@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/*modo landscape - deitado*/
+
+body{
+    background-image: url(../imgs/cev-landscape.jpg);
+    background-position: left bottom;
+}
